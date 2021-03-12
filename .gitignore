@@ -1,0 +1,8 @@
+[Bb]in/
+[Oo]bj/
+[Rr]elease/
+[Dd]ebug/
+
+*.nupkg
+.vs/
+.vscode/
